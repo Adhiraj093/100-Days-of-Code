@@ -65,8 +65,8 @@ Area=28.27, Circumference=18.85
     area = PI*radius*radius;
     circumference = 2*PI*radius;
   	
-  	printf("Area:%.2f\n",area);
-  	printf("Circumference:%.2f",circumference);
+  	printf("Area:%f\n",area);
+  	printf("Circumference:%f",circumference);
   	
   	return 0;
   }
